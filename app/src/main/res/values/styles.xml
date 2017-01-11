@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="AppTheme.Base" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/theme_primary</item>
+        <item name="colorPrimaryDark">@color/theme_primary_dark</item>
+        <item name="colorAccent">@color/theme_accent</item>
+    </style>
+
+    <!-- Application theme. -->
+    <style name="Theme.WifiDirectTest" parent="AppTheme.Base">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
